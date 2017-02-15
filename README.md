@@ -4,7 +4,7 @@ This simple Ball Bounce Simulator is the result of a Python coding session with 
 
 We tested this on Windows 7, but there is no reason why it shouldn't work on other platforms. Before running the program on Windows, you will need to install Python 3.2 (standard 32-bit version with IDLE) and then Pygame 1.9.2a0.wn32-py3.2. Unfortunately Pygame is no longer actively maintained even though it still works admirably on modern OSes.
 
-## Educational Challenge
+## Challenge
 
 Refactor this code to:
 
