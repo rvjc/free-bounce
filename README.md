@@ -9,7 +9,7 @@ We tested this on Windows 7, but there is no reason why it shouldn't work on oth
 Refactor this code to:
 
 1. Work with latest version of Python using a newer generation game/CGI framework.
-2. Normalise physics to reflect real world units and make it frame rate independent.
+2. Normalise physics to reflect real world units independent of frame rate.
 3. Add multiple balls and simulate collisions
 
 When you've done that, you're well on your way to programming nirvana ;-)
