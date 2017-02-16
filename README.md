@@ -8,7 +8,7 @@ Unfortunately Pygame is no longer actively maintained even though it still works
 
 ## Screenshot
 
-[![](http://img.youtube.com/vi/v=3-aFIpENcxU/0.jpg)](http://www.youtube.com/watch?v=3-aFIpENcxU "Bounce Demo")
+[![](http://img.youtube.com/vi/3-aFIpENcxU/0.jpg)](http://www.youtube.com/watch?v=3-aFIpENcxU "Bounce Demo")
 
 ## Coding Challenge
 
