@@ -8,6 +8,8 @@ Unfortunately Pygame is no longer actively maintained even though it still works
 
 ## Screenshot
 
+Click image to watch video. Note that, due to capture limitations, video quality is degraded.
+
 [![](http://img.youtube.com/vi/3-aFIpENcxU/0.jpg)](http://www.youtube.com/watch?v=3-aFIpENcxU "Bounce Demo")
 
 ## Coding Challenge
