@@ -6,6 +6,10 @@ We tested this on Windows 7, but there is no reason why it shouldn't work on oth
 
 Unfortunately Pygame is no longer actively maintained even though it still works reliably on modern OSes. Pygame supports double-buffering in full screen mode; however, like most legacy frameworks, this does _not_ work in windowed mode. You will therefore notice a little flicker in this simple implementation. Of course, these imperfections and limitations are themselves educational.
 
+## Screenshot
+
+[![](http://img.youtube.com/vi/v=3-aFIpENcxU/0.jpg)](http://www.youtube.com/watch?v=3-aFIpENcxU "Bounce Demo")
+
 ## Coding Challenge
 
 Refactor this code to:
