@@ -1,4 +1,4 @@
-# Bounce
+# Free Bounce
 
 This simple Ball Bounce Simulator is the result of a Python coding session with my youngest son on a damp Saturday afternoon in 2012. He was nine-years old at the time and this was his introduction to physics engines. As such, this program is intentionally procedural (no classes, etc) and the physics are crude but realistic with plausible sound effects. Imagine a ping pong ball dropping on a hard kitchen floor before finally dribbling to a halt with its own inimitable sound. Well, that's basically what this simulator amounts to. At the end of each run, you can hit the SPACE bar to restart the simulation over and over again. It is quite therapeutic -- really!!
 
